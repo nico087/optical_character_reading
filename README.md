@@ -1,5 +1,5 @@
 # optical_character_reading
-A freelance project, reading phone numbers from a image (OCR)
+A freelance project, reading phone numbers from images (OCR)
 
 Customer has a request to convert phone numbers from russian public ads website. Below you can find one sample link. He had already collected images from the websites and needed script for converting phone numbers from image files to text files. 
 
